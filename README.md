@@ -1,8 +1,16 @@
 # Data Science Job Market Tableau Dashboard (2017 - 2021)
 ## Objective: Analyzing the data science job market from a job seekers perspective.
 
+(Before Diving in have a glimpse)
 
-This is a data analysis that followed a five-step process in the data science workflow, whose parts you can see below:
+**Dashboard 1**<br>
+<img src="https://github.com/StarRider/Data-Science-Job-Market-Tableau-Dashboard/assets/30108439/bcbb611c-5280-48cb-897e-829482659a55" alt="Your Image" width="400" height="290">
+
+
+**Dashboard 2**<br>
+<img src="https://github.com/StarRider/Data-Science-Job-Market-Tableau-Dashboard/assets/30108439/c0accc0f-0c6b-4ece-9ca5-2c7ba4307525" alt="Your Image" width="400" height="290">
+
+**This is a data analysis project that followed a five-step process in the data science workflow, whose parts you can see below:**
 
 ### 1. Identify business questions
   1.1 Out of Data Analyst, Data Engineer, Data Scientist and Machine Learning Engineer who has the most demand in the market?<br>
@@ -142,7 +150,7 @@ This are some of words that look similar but are written differently:
   #### 5.2 Dashboard 2 | Where do you stand in the data science market?
   This dashboard asks users about their skills and desired type of job levels (entry, intern, senior e.t.c). Once the user gives these inputs, the interface will provide the user with insights about his/her own skill demand in the market and which roles align mostly with their existing skill set.
 
-  [Link to dashboard](https://public.tableau.com/views/DataScienceJobMarket2017-2021/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+  [Link to the dashboards](https://public.tableau.com/views/DataScienceJobMarket2017-2021/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
   Enjoy!!
    
