@@ -1,7 +1,7 @@
 # Data Science Job Market Tableau Dashboard (2017 - 2021)
 ## Objective: Analyzing the data science job market from a job seekers perspective.
 
-(Before Diving in, have a glimpse or you can have a look at my [tableau story](https://public.tableau.com/shared/?:display_count=n&:origin=viz_share_link) )
+(Before Diving in, have a glimpse or you can have a look at my [tableau story]([https://public.tableau.com/shared/?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/DataScienceJobMarket2017-2021/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)) )
 
 **Dashboard 1**<br>
 <img src="https://github.com/StarRider/Data-Science-Job-Market-Tableau-Dashboard/assets/30108439/bcbb611c-5280-48cb-897e-829482659a55" alt="Your Image" width="400" height="290">
