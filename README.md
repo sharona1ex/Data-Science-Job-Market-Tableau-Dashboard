@@ -123,7 +123,7 @@ def find_similar_words(word, word_list, threshold=80):
   Using this function I got a list that words and there similar looking words. Using that list I replaced all the similar looking words into one consistent word.
 ```
 This are some of words that look similar but are written differently:
-['ai', 'ml'], ['ai/ml', 'ml'], ['powerbi', 'power_bi']....
+['ai/ml', 'ml'], ['powerbi', 'power_bi'], ['backend', 'back-end']....
 ```
   After the cleaning and data preparation, we have two tables **job_postings** and **job_skill**.
 
@@ -132,7 +132,7 @@ This are some of words that look similar but are written differently:
   1. Data engineers are the most in-demand roles.
      ![image](https://github.com/StarRider/Data-Science-Job-Market-Tableau-Dashboard/assets/30108439/cc85a6d8-8b8d-4f57-b37d-562227f44d4e)
 
-  2. Despite decline in demand for data science roles due Covid-19 these roles, the trend has a positive outlook.
+  2. Despite decline in demand for data science roles due to Covid-19, these roles show a positive outlook towards the future.
      ![image](https://github.com/StarRider/Data-Science-Job-Market-Tableau-Dashboard/assets/30108439/4368babe-7b5b-49a5-a4b6-fe4e33cbd638)
 
   3. Python is the most popular among recruiters for data science roles.
