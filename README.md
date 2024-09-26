@@ -4,7 +4,7 @@
 (Before Diving in, have a glimpse or you can have a look at my [tableau story](https://public.tableau.com/views/DataScienceJobMarket2017-2021/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 **Dashboard 1**<br>
-<img src="https://github.com/StarRider/Data-Science-Job-Market-Tableau-Dashboard/assets/30108439/bcbb611c-5280-48cb-897e-829482659a55" alt="Your Image" width="450" height="350">
+<img src="https://github.com/StarRider/Data-Science-Job-Market-Tableau-Dashboard/assets/30108439/bcbb611c-5280-48cb-897e-829482659a55" alt="Your Image" width="500" height="400">
 
 
 **Dashboard 2**<br>
