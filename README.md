@@ -8,7 +8,7 @@
 
 
 **Dashboard 2**<br>
-<img src="https://github.com/StarRider/Data-Science-Job-Market-Tableau-Dashboard/assets/30108439/c0accc0f-0c6b-4ece-9ca5-2c7ba4307525" alt="Your Image" width="400" height="290">
+<img src="https://github.com/StarRider/Data-Science-Job-Market-Tableau-Dashboard/assets/30108439/c0accc0f-0c6b-4ece-9ca5-2c7ba4307525" alt="Your Image" width="500" height="400">
 
 **This is a data analysis project that followed a five-step process in the data science workflow, whose parts you can see below:**
 
